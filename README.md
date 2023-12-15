@@ -1,0 +1,1 @@
+MotionMingle is an innovative web application designed to simplify the process of creating captivating animations for your web projects. With MotionMingle, you can bring your web pages to life through seamless and customizable animations, enhancing user engagement and visual appeal.
